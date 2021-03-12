@@ -1,2 +1,3 @@
 # Hello-World
-My first repo
+Hi Guys,
+This is my first hello to the world on GiyHub!
